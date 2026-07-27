@@ -2,7 +2,7 @@
 
 ## Tool and Technologies:
 
-Python
-Pinecone
-Langchain
+- Python
+- Pinecone
+- Langchain
 
