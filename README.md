@@ -6,3 +6,5 @@
 - Pinecone
 - Langchain
 
+- Daily Update Working
+
