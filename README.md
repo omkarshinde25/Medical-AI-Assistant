@@ -1,6 +1,6 @@
 # Medical AI Assitant Project
 
-## Tool and Technologies:
+## Tool and Technologies:-
 
 - Python
 - Pinecone
